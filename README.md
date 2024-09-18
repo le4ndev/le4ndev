@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/u4fYaeV.png" alt="" style="max-width: 100%; height: auto;">
 <div align="center">
 <h1 align="center">👋 Hi there! I'm Leandro</h1>
 
@@ -26,5 +27,4 @@ I'm a 20-year-old freelance developer from Argentina, specializing in Java and d
   -->
   <a href="https://discord.gg/your_discord"><img src="https://img.shields.io/badge/le4ndev-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
-
----
+</div>
