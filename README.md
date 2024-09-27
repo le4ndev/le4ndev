@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there! I'm Leandro</h1>
 
 ### About Me
-I'm a 20-year-old freelance developer from Argentina, specializing in Java and database integration. I love building efficient and scalable applications that make a difference.
+I'm a 21-year-old freelance developer from Argentina, specializing in Java and database integration. I love building efficient and scalable applications that make a difference.
 
 ---
 
