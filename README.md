@@ -15,7 +15,9 @@ I'm a 21-year-old freelance developer from Argentina, specializing in Java and d
 
 ### 📊 GitHub Statistics
 ![Le4ndev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=le4ndev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<!--
 ![Le4ndev's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=le4ndev&theme=radical&include_all_commits=true&count_private=true)
+-->
 
 ---
 
